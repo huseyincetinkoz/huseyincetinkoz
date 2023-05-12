@@ -8,7 +8,6 @@ I share my projects on GitHub and contribute to open-source communities. I enjoy
 
 If you have any projects or collaboration opportunities you're interested in, please take a look at my GitHub account and don't hesitate to reach out. I'm excited to work together on new and exciting projects!"
 
-I hope this translation works for you. Good luck!
 
 <!--
 **huseyincetinkoz/huseyincetinkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
