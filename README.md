@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"Hello! My name is Hüseyin, and I'm 20 years old. I have been coding as a front-end developer for 2 years. I'm also known as a former national team judo athlete. Judo has helped me acquire valuable skills such as discipline, determination, and strategic thinking throughout my life. Now, I'm bringing those experiences into the world of coding by creating innovative web projects.
+"Hello! My name is Hüseyin, and I'm 21 years old. I have been coding as a front-end developer for 2 years. I'm also known as a former national team judo athlete. Judo has helped me acquire valuable skills such as discipline, determination, and strategic thinking throughout my life. Now, I'm bringing those experiences into the world of coding by creating innovative web projects.
 
 My passion for technology and eagerness to learn continuously motivate me to progress in front-end development. I'm proficient in core web technologies like HTML, CSS, and JavaScript, and I also utilize popular front-end frameworks such as React and Angular.
 
